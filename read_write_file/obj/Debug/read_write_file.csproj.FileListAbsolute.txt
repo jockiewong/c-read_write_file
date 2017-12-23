@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\bin\Debug\read_write_file.exe.config
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\bin\Debug\read_write_file.exe
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\bin\Debug\read_write_file.pdb
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\obj\Debug\read_write_file.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\obj\Debug\read_write_file.exe
+C:\Users\Administrator\Desktop\tt\read_write_file\read_write_file\obj\Debug\read_write_file.pdb
+C:\Users\Administrator\Desktop\tt\read_write_file\c-read_write_file\read_write_file\bin\Debug\read_write_file.exe.config
+C:\Users\Administrator\Desktop\tt\read_write_file\c-read_write_file\read_write_file\obj\Debug\read_write_file.exe
+C:\Users\Administrator\Desktop\tt\read_write_file\c-read_write_file\read_write_file\obj\Debug\read_write_file.pdb
